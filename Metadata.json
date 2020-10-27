@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 10034,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newazureenvironment-parent-runbook/master/New-AzureEnvironment.ps1",
+    "DownloadCount": 762,
+    "Id": "New-AzureEnvironment-3da125dc",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 578,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2015-1-5T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This is a demo runbook to show how I create a simple Azure IaaS EnvironomentIt uses theNew-CloudService https://gallery.technet.microsoft.com/scriptcenter/New-Cloud-Service-Child-75911f57\u00a0,New-StorageAccount https://gallery.technet.microsoft.com/scriptcenter/New-StorageAc",
+    "Title": "New-AzureEnvironment Parent Runbook",
+    "UpdatedDate": "2015-1-6T00:00:00",
+    "Url": "https://github.com/azureautomation/newazureenvironment-parent-runbook",
+    "UserTags": "Windows Azure Virtual Machines, Azure Automation"
+}
